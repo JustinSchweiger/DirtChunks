@@ -1,0 +1,7 @@
+name: Dirt-Chunks
+version: '${version}'
+main: net.dirtcraft.plugins.dirtchunks.DirtChunks
+api-version: 1.16
+load: STARTUP
+authors: [ DeJustinHD ]
+description: Debug Plugin that prints all loaded chunks to console
